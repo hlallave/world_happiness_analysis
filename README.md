@@ -1,5 +1,5 @@
 # world_happiness_analysis
-This is the first Data Analytics project I did back on July 2021 using Python. 
+This is the first Data Analytics project I did back on June 2021 using Python. 
 I do have long time experience in Data Analysis, but I always worked with Excel spreadsheets and other analytics softwares that did not require coding (except from a few simple SQL queries).  
 
 Said that, my main goals for this project where the following ones: 
